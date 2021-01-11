@@ -4,10 +4,10 @@ This Cordova app is a showcase of various A-Frame demos.
 
 ## Installation
 
-```bash
-git clone git@github.com:benallfree/cordova-aframe-showcase.git
-cd cordova-aframe-showcase
-npm i
+```sh
+git clone https://github.com/r23/cordova-aframe-showcase # Clone the repository.
+cd cordova-aframe-showcase 
+npm install # Install dependencies.
 cordova platform add ios
 cordova run ios
 ```
